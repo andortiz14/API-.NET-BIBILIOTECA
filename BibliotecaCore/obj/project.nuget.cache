@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3xST7t7b/YXS2lHoPOu6ejUpTVWPqOfhrob4pT2scc5deT8ZDouJ9OSRPY6AWIn0hTO6d/nQ3BPycp63woijw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AGORTIZ\\Downloads\\Biblioteca\\BibliotecaCore\\BibliotecaCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AGORTIZ\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

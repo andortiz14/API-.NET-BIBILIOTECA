@@ -1,0 +1,8 @@
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\bin\Debug\netstandard2.1\BibliotecaCore.deps.json
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\bin\Debug\netstandard2.1\BibliotecaCore.dll
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\bin\Debug\netstandard2.1\BibliotecaCore.pdb
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\obj\Debug\netstandard2.1\BibliotecaCore.AssemblyInfoInputs.cache
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\obj\Debug\netstandard2.1\BibliotecaCore.AssemblyInfo.cs
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\obj\Debug\netstandard2.1\BibliotecaCore.csproj.CoreCompileInputs.cache
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\obj\Debug\netstandard2.1\BibliotecaCore.dll
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaCore\obj\Debug\netstandard2.1\BibliotecaCore.pdb

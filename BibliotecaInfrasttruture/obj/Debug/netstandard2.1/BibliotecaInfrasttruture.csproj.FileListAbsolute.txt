@@ -1,0 +1,12 @@
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\bin\Debug\netstandard2.1\BibliotecaInfrasttruture.deps.json
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\bin\Debug\netstandard2.1\BibliotecaInfrasttruture.dll
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\bin\Debug\netstandard2.1\BibliotecaInfrasttruture.pdb
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\bin\Debug\netstandard2.1\BibliotecaCore.dll
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\bin\Debug\netstandard2.1\BibliotecaCore.pdb
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.csprojAssemblyReference.cache
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.AssemblyInfoInputs.cache
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.AssemblyInfo.cs
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.csproj.CoreCompileInputs.cache
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.csproj.CopyComplete
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.dll
+C:\Users\AGORTIZ\Downloads\Biblioteca\BibliotecaInfrasttruture\obj\Debug\netstandard2.1\BibliotecaInfrasttruture.pdb
